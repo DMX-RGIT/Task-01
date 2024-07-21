@@ -72,4 +72,3 @@ function toLower(str) {
 }
 toLower("Hello World");
 
-```
